@@ -4,4 +4,4 @@ Experienced digital marketer with a Master of Business Administration seeking to
 
 ## Project
 
-- Business insight analysis with Superstore dataset
+- [SQL] Business insight analysis with Superstore dataset 
