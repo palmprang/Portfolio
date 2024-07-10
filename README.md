@@ -5,3 +5,4 @@ Experienced digital marketer with a Master of Business Administration seeking to
 ## Project
 
 - [SQL] Business insight analysis and recommendations with Superstore dataset
+- [Google Sheets] Online sales analysis with online sales transactions dataset
