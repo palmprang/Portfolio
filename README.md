@@ -7,3 +7,7 @@ Quick learner with a strong passion to execute data-driven decision and grow as 
 
 - [SQL] Business insight analysis and recommendations with Superstore dataset
 - [Google Sheets] Online sales analysis with online sales transactions dataset
+
+
+## contact
+palmprang.ton@gmail.com
